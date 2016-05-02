@@ -1,0 +1,6 @@
+hello : merhaba
+world : dünya
+do :        yapmak
+yes: evet
+no : hayır
+   okey:   tamam
